@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    gap: 5%;
+    width: 95%;
+    justify-content: end;
+    margin-top: 15rem;
+}
+.contato {
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+
