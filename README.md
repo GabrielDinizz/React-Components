@@ -9,3 +9,6 @@ Este projeto não apenas demonstra minha compreensão de React e sua arquitetura
 
 Sinta-se à vontade para explorar o código-fonte e fornecer feedback ou sugestões para melhorias. Obrigado por visitar!
 
+## Requisitos
+- React.js
+- instalação react node modules? (npm install / npm run dev)
